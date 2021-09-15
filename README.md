@@ -1,7 +1,7 @@
-## Some Stuff About Me
-- Tech Nerd
-- Mac User
-- Cat lover
+## Some Stuff About Me :monocle_face:
+- Tech Nerd :floppy_disk:
+- Mac User :desktop_computer:
+- Cat lover :heart_eyes_cat:
 - Marvel Fan
 - Insane Design Nut
 - I used to have long hair. Now it's shorter.
