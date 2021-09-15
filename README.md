@@ -1,4 +1,4 @@
-### Some Stuff About Me
+## Some Stuff About Me
 - Tech Nerd
 - Mac User
 - Cat lover
