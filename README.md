@@ -1,6 +1,6 @@
 ## Some Stuff About Me :monocle_face:
 - Tech Nerd :floppy_disk:
-- Mac User :desktop_computer:
+- Mac User 💻
 - Cat lover :heart_eyes_cat:
 - Marvel Fan
 - Insane Design Nut
