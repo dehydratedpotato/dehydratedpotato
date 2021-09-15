@@ -8,4 +8,4 @@
 
 If I'm not coding, I'm graphic designing. If I'm not graphic designing, I'm probably ranting about computers. Or graphic design.
 
-###### Currently working on way too many programming projects...Behind the scenes...
+_Currently working on way too many programming projects...Behind the scenes..._
