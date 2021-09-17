@@ -1,7 +1,7 @@
 ## Some Stuff About Me :monocle_face:
-- Tech Nerd :floppy_disk:
-- Mac User 💻
-- Cat lover :heart_eyes_cat:
+- Tech Nerd
+- Mac User
+- Cat lover
 - Insane Design Nut
 
 If I'm not coding, I'm graphic designing. If I'm not graphic designing, I'm probably ranting about computers. Or graphic design.
