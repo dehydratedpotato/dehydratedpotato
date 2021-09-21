@@ -3,6 +3,7 @@
 - Mac User
 - Cat lover
 - Insane Design Nut
+- Apple Silicon True Believer
 
 If I'm not coding, I'm graphic designing. If I'm not graphic designing, I'm probably ranting about computers. Or graphic design.
 
