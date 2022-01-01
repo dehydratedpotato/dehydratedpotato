@@ -1,6 +1,6 @@
 ## Greetings and Salutations
 
-I am a young software developer, designer, tech enthusiast, and hardcore Apple user.
+I am a young software developer, designer, tech enthusiast, and hardcore Apple product user.
 
 I spend my time making mildly interesting things with C, C++, Objective-C, Swift, and Shell (with an occasional hint of Javascript, HTML, and CSS as well).
 
