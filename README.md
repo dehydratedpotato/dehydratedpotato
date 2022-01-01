@@ -1,7 +1,9 @@
-# Greetings and Salutations
+## Greetings and Salutations
 
-I am a young software developer, designer, and tech enthusiast, spending my time making mildly interesting things with C, C++, Objective-C, Swift, and Shell (with an occasional hint of Javascript, HTML, and CSS as well).
+I am a young software developer, designer, tech enthusiast, and hardcore Apple user.
 
-In my spare time, I can be found drooling over Apple products and ranting about random stuff.
+I spend my time making mildly interesting things with C, C++, Objective-C, Swift, and Shell (with an occasional hint of Javascript, HTML, and CSS as well).
 
-If you want to see a list of everything I've created, visit my [actively updated website](https://bitespotatobacks.github.io).
+If I'm not coding, I'm probably ranting or watching Linus Tech Tips.
+
+If you want to see a clean list of all my programming projects, visit my [actively updated website](https://bitespotatobacks.github.io).
