@@ -25,14 +25,14 @@ For the purposes of this Privacy Policy:
 ## Collecting and Using Your Personal Data 
 ### Types of Data Collected 
 #### Personal Data 
-We collect no Personal Data. The only case in which we may obtain your information is if you contact us by email. In those situations, we do not harvest the information, we respond as necessary and then delete the emails. Nothing is retained.
+We collect no Personal Data. The only case in which We may obtain your information is if you contact us by email. In those situations, We do not harvest the information, We respond as necessary and then delete the emails. Nothing is retained.
 #### Usage Data 
 We collect no Usage Data.
 #### Information Collected while Using the Application 
 We collect no Information.
 
 ### Use of Your Personal Data 
-We collect no Personal Data, there is no data to share with service providers or any other entity since we do not collect it. The only case in which we may obtain your information is if you contact us by email. In those situations, we do not harvest the information, we respond as necessary and then delete the emails. Nothing is retained.
+We collect no Personal Data, there is no data to share with service providers or any other entity since We do not collect it. The only case in which We may obtain your information is if you contact Us by email. In those situations, We do not harvest the information, We respond as necessary and then delete the emails. Nothing is retained.
 
 ### Retention of Your Personal Data 
 The Company does not retain your personal data since We do not collect any.
@@ -41,11 +41,11 @@ The Company will not transfer your personal data since We do not collect any.
 ### Disclosure of Your Personal Data 
 The Company will not disclose your personal data since We do not collect any.
 ### Security of Your Personal Data 
-There is no data to secure since We do not collect any. The only case in which we may obtain your information is if you contact us by email. In those situations, we do not harvest the information, we respond as necessary and then delete the emails. Nothing is retained.
+There is no data to secure since We do not collect any. The only case in which we may obtain your information is if you contact Us by email. In those situations, We do not harvest the information, we respond as necessary and then delete the emails. Nothing is retained.
 ### Detailed Information on the Processing of Your Personal Data 
-There is no processing of your Personal Data since we do not collect any.
+There is no processing of your Personal Data since We do not collect any.
 ### Children's Privacy 
-Our Service collects no data, so child privacy is not at risk. The only case in which we may obtain your information is if your child contacts us by email. In those situations, we do not harvest the information, we respond as necessary and then delete the emails. Nothing is retained.
+Our Service collects no data, so child privacy is not at risk. The only case in which We may obtain your information is if your child contacts Us by email. In those situations, we do not harvest the information, we respond as necessary and then delete the emails. Nothing is retained.
 ### Links to Other Websites 
 Our Service may contain links to other websites that are not operated by Us. If You click on a third party link, You will be directed to that third party's site. We strongly advise You to review the Privacy Policy of every site You visit. 
 
@@ -53,10 +53,10 @@ We have no control over and assume no responsibility for the content, privacy po
 ### Changes to this Privacy Policy 
 We may update Our Privacy Policy from time to time. We will notify You of any changes by posting the new Privacy Policy on this page. 
 
-We will let You know via email and/or a prominent notice on Our Service, prior to the change becoming effective and update the "Last updated" date at the top of this Privacy Policy. 
+We will let You know via a prominent notice on Our Service, prior to the change becoming effective and update the "Last updated" date at the top of this Privacy Policy. 
 
 You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page. 
 ### Contact Us 
-If you have any questions about this Privacy Policy, You can contact us: 
+If You have any questions about this Privacy Policy, You can contact Us: 
 - By visiting this page: [https://github.com/BitesPotatoBacks/BitesPotatoBacks/issues](https://github.com/BitesPotatoBacks/BitesPotatoBacks/issues)
 - By sending us an email: **bitespotatobac@gmail.com**
