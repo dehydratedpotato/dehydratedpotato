@@ -9,4 +9,4 @@ ___
 
 ### Announcement (February 27, 2022)
 
-I've just released my first mobile app, _**Coin Fliporator**_, to the App Store. It's available now for WatchOS only, with support for 8 languages. More coins and new features will be coming soon. See it at **[https://apps.apple.com/app/coin-fliporator/id1611054060](https://apps.apple.com/app/coin-fliporator/id1611054060)**
+I've just released my first WatchOS app, _**Coin Fliporator**_, to the App Store. It's available now with support for 8 languages. More coins and new features will be coming soon. See it at **[https://apps.apple.com/app/coin-fliporator/id1611054060](https://apps.apple.com/app/coin-fliporator/id1611054060)**
