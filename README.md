@@ -1,11 +1,11 @@
-## Greetings and Salutations
+### Greetings and Salutations
 
-I am a young software developer, designer, tech enthusiast, and hardcore Apple fan. I have decent experience with web development (HTML, JS, CSS) but I tend to focus on more low/medium level languages (C, C++, Objective-C, Assembley). I'm pretty obsessed with hardware monitoring and CPUs, so you'll see a lot of that kind of stuff here. I'm also a design nut.
+I am a young tech enthusiast developing apps for the Apple App Store, creating CPU related projects for MacOS, and 3D modeling in my spare time because I’ve got nothing better to do.
 
-**Biggest accomplishment so far:** Figuring out how to get the CPUs current frequency, per core and per cluster, on Intel and Apple Silicon. You can see the project [here](https://github.com/BitesPotatoBacks/osx-cpufreq).
+I tend to focus on more low/medium level languages (C, C++, Objective-C, Assembley), but I also have decent experience with web development (HTML, JS, CSS). I don’t like Swift but It makes life easier. Sometimes.
 
-**If you would like to support me, you can donate to my [Cash App](https://cash.app/$bitespotatobacks).**
+**If you would like to support me, you can donate to my _[Cash App](https://cash.app/$bitespotatobacks)._**
 
-## ANNOUNCEMENT! (February 27, 2022)
+### App Store Announcement (February 27, 2022)
 
-I've just released my first app on the Apple App Store! 🥳 It's a Watch-Only Coin Flipper called **Coin Fliporator**, made to be simple and good looking. It supports English, French, German, Hindi, Japanese, Korean, Russian, Spanish, and Traditional Chinese. More coins and new features will be coming soon! See it at [https://apps.apple.com/app/coin-fliporator/id1611054060](https://apps.apple.com/app/coin-fliporator/id1611054060)!
+I've just released my first mobile app, _**Coin Fliporator**_, to the App Store. It's available now for WatchOS only, with support for 8 languages. More coins and new features will be coming soon. See it at **[https://apps.apple.com/app/coin-fliporator/id1611054060](https://apps.apple.com/app/coin-fliporator/id1611054060)**
