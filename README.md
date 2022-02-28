@@ -1,8 +1,7 @@
-## Hello, World
+### Howdy 👋
+I'm a young tech enthusiast developing apps for the Apple App Store, creating hardware monitoring projects for MacOS, and 3D modeling in my spare time because I’ve got nothing better to do.
 
-I am a young tech enthusiast developing apps for the Apple App Store, creating CPU related projects for MacOS, and 3D modeling in my spare time because I’ve got nothing better to do.
-
-When it comes to programming, I tend to focus on more low/medium level languages (C, C++, Objective-C, Assembley), but I also have decent experience with web development (HTML, JS, CSS). I don’t like Swift, but It makes my life easier. Sometimes.
+When it comes to programming, I tend to focus on lower level languages (such as C, C++, Objective-C, Assembley), but I also have decent experience with web development (HTML, JS, CSS). I don’t like Swift, but It makes my life easier. Sometimes.
 
 **If you would like to support me, you can donate to my _[Cash App](https://cash.app/$bitespotatobacks)._**
 
