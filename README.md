@@ -1,7 +1,8 @@
 
-### This here is my README.
-**Bio:**
-Just a dude who's very interested in CPU architecture and design; developing useful metric retrieval command line tools related to that interest, or working on whatever other unrelated project tickles my fancy. I work primarily with C based languages, and I despise Swift.
+<h2 align="center" style="">Salutations, Traveler <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h2>
 
-**News:**
- I recently tested out the Apple Developer experience with a simple WatchOS app called Coin Fliporator. It aims to be the best coin flipping app available for  WatchOS. You can check it out [on the App Store](https://apps.apple.com/us/app/coin-fliporator/id1611054060) if you'd like.
+### Bio
+I am a young tech enthusiast who holds interests in **CPU architecture, electrical engineering, operating system design, computer graphics, 3D modeling, software development,** and about a thousand other loosely related topics. I spend most of my time endlessly researching or working on my many, many projects.
+
+### News
+I've recently tested out the Apple Developer experience with a simple WatchOS app called **Coin Fliporator**! I'm actually pretty satisifed with it. You can check it out over [on the App Store](https://apps.apple.com/us/app/coin-fliporator/id1611054060) if you'd like.
