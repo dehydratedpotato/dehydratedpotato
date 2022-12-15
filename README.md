@@ -1,16 +1,22 @@
 
-<h3 align="center" style="">Salutations, Individual <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h3>
+<img src="https://user-images.githubusercontent.com/83843298/207746129-bb1d9418-ca95-44d8-9e06-08f265b92206.jpeg" width="378">
 
 
-I am a young tech enthusiast and self-taught developer with a designer eye and an art gene, developing random software for Apple Platforms, often getting involved in really janky reverse engineering projects (yet I'm obsessed with efficiency). I'm deeply intrigued by CPUs, digital logic design, and misc architectural stuff.
+###### Yes, that's a photo of an old Macintosh. I thought the "Hello" thing was a clever idea for my README greeting. Don't judge me, I'm an Apple fanboy 😜
 
-I'm working on a few productivty apps / developer tools for the App Store, but we'll see how long until I finish any. Here on Github, you'll see a wide (but also slightly related) array of projects I conjure in various amounts of time.
+## 📖 I do suppose this is a README
 
-My chosen programming lanuguages are:
+### 🔍 About Me
 
-- Swift (of course)
-- SwiftUI (it sucks but makes things so much easier and is slowly getting better)
-- Objective-C (I'd use plain C more often but then I'd have NeXTSTEP withdrawals)
-- Shell (but only when I deem it practical)
+I am a young tech enthusiast and self-taught developer with a designer eye and an art gene, developing random software for Apple Platforms. I'm obsessed with polished experiences and efficiency, but often find myself involved in really janky reverse engineering projects. I'm also deeply intrigued by the various aspects of CPUs, digital logic design, and misc architectural stuff. 
 
-I occasionally touch on the web based side of things, but let's just say that I don't particularly enjoy using JavaScript.
+I'm currently working on a handful of productivty apps / developer tools for the App Store, but we'll see how long until I finish any 😅. Here my Github, you'll see a wide (but also slightly related) array of projects I conjure in various amounts of time.
+___
+
+### :octocat: Github Stats
+Because why not?
+
+<!-- <div > -->
+<img src="https://github-readme-stats.vercel.app/api/?username=BitesPotatoBacks&show_icons=true&theme=transparent&border_radius=15">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BitesPotatoBacks&layout=compact&theme=transparent&border_radius=15">
+<!-- </div> -->
