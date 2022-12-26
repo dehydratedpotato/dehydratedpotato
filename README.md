@@ -4,14 +4,12 @@
 
 
 
-## 🔍 About Me
+## 🔍 About Me...
 
-I am a young tech enthusiast and self-taught developer with a designer eye and an art gene, developing random software for Apple Platforms. I'm obsessed with polished experiences and efficiency, but often find myself involved in really janky reverse engineering projects. I'm also deeply intrigued by the various aspects of CPUs, digital logic design, and misc architectural stuff. 
-
-I'm currently working on a handful of productivty apps / developer tools for the App Store, but we'll see how long until I finish any 😅. Here on my Github, you'll see a wide (but also slightly related) array of projects I conjure in various amounts of time.
-
-Don't ask me why my username is what it is, I don't really know.
-___
+- I'm a young tech enthusiast and self-taught developer with a designer eye developing random software for Apple Platforms.
+- I'm obsessed with polished experiences and efficiency, but often get involved in janky reverse engineering projects on the side.
+- I'm also interested in various aspects of CPUs, digital logic design, and misc architectural stuff. 
+- Currently working on a handful of projects for the App Store, but we'll see how long until I finish any. 😅
 
 ## :octocat: Github Stats
 Because why not?
