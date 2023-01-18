@@ -7,17 +7,17 @@
 
 ## 🤔 About me...
 
-- I'm a young tech enthusiast and self-taught dev with a design eye, making random tools and junk for Apple Platforms.
-- I'm obsessed with polished experiences and efficiency, although I often get involved in janky reverse engineering projects (for some reason).
+- I'm a young tech enthusiast and self-taught dev with a design eye, making random stuff and junk for Apple Platforms.
+- I'm obsessed with polished experiences and efficiency, but also enjoy working on janky reverse engineering projects (for some reason).
 - I'm also very interested in the various aspects of CPUs, digital logic design, and miscellaneous architectural stuff. 
-- Currently working on a handful of projects for the App Store, but we'll see how long until I finish any...
+- Currently focusing on Swift, and working on a few App Store projects (we'll see how long until I finish any)...
 
 <!-- My website: -->
 <!-- My app store: -->
 
 ## :octocat: My Github stats...
 
-<!-- <div > -->
-<img src="https://github-readme-stats.vercel.app/api/?username=BitesPotatoBacks&show_icons=true&theme=transparent&border_radius=15">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BitesPotatoBacks&layout=compact&theme=transparent&border_radius=15">
-<!-- </div> -->
+<div >
+<img src="https://github-readme-stats.vercel.app/api/?username=BitesPotatoBacks&show_icons=true&theme=nord&include_all_commits=true&hide_border=true" height="180px">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BitesPotatoBacks&layout=compact&theme=nord&hide_border=true" height="180px">
+</div>
