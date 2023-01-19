@@ -17,7 +17,7 @@
 
 ## :octocat: My Github stats...
 
-<div >
-<img src="https://github-readme-stats.vercel.app/api/?username=BitesPotatoBacks&show_icons=true&theme=nord&include_all_commits=true&hide_border=true" height="180px">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BitesPotatoBacks&layout=compact&theme=nord&hide_border=true" height="180px">
+<div>
+<img src="https://github-readme-stats.vercel.app/api/?username=BitesPotatoBacks&show_icons=true&theme=nord&include_all_commits=true&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BitesPotatoBacks&layout=compact&theme=nord&hide_border=true">
 </div>
