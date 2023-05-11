@@ -5,9 +5,13 @@
 
 -->
 ## 🖖 Salutations! 
-I'm an Apple Developer and half-way graphic designer person who mildly obsesses over polish and efficiency. Don't mind the fact that I spend half my time working on janky reverse engineering projects. I'm also pretty interested in low-level architect-y things like digital logic and CPU stuff.
+I'm your usual Apple Developer, except for the fact that I'm extremely obsessed with rigorously optomizing my projects (excluding those jank in nature) and sometimes that can be... dangerous.
 
-Currently making things with Swift, as one does. Secretly conjuring up an app or two. We'll see if I finish any...
+I'm very into super low level stuff revolving CPU architecture, and I spend a good portion of my time trying to find Mac crap to decompile, recreate, or reverse engineer. I have found that I enjoy defying Apple very, very much.
+
+My favorite languages are Swift and C. Objective-C is a necessary evil that presents the privilege of NS types. I despise Java with all my being.
+
+_\[Link to a website/blog pending\]_
 
 <!-- ## Latest work
 
