@@ -5,16 +5,14 @@
 
 -->
 
-### Greetings.
-I’m sort of an Apple Developer, I guess. I focus on the Mac side and sometimes try to do some iOS-y stuff.
+<h3 align="center">:potato: Starchy greetings!</h3>
+<!--<p align="center">I am a software developer whos making random stuff whenever I feel like it, mostly for Apple platforms.  I'm really into design, and low level stuff like CPU architecture and the like. Every now and then I annoy myself trying to decompile closed source apps and tools so you may see some stuff like that around here.</p>-->
+<p align="center"><b>dehydratedpotato:</b> Randomly excreating software, usually for the Mac. Proud hater of Java, somewhat tasteful design snob, involuntary distiller of bad code, enjoyer of fine low-level goods.</p>
 
-I’m really into low level things, especially anything directly involving CPU architecture, and I enjoy decompiling closed source stuff sometimes. Not at all afraid of C or Assembley like any of these new Swift developers, but I do hate Java. I try to write code that is as fast and optimized as It can possibly be, at least for projects that "deserve" it. I'm also a bit of an artist so I feel certain kinds of ways when it comes to design. 
-
-If you want to support me in case I managed to make something that's actually coolish, you can...
-
-<a href="https://www.buymeacoffee.com/dehydratedtato" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 42px !important;width: 152 !important;" ></a>
-
-...if you care to, otherwise put that darn money in savings.
+<p align="center">If I somehow made something cool and you wanna support me, you can <br> <a align="center" href="https://www.buymeacoffee.com/dehydratedtato" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 42px !important;width: 152 !important;" ></a></p>
+<p align="center">
+...if you care to, otherwise put that freakin' money in savings. 💸
+</p>
 
 <!-- ## Latest work
 
